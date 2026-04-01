@@ -1,0 +1,724 @@
+[
+  {
+    "id": "1",
+    "title": "信达·辰樾府",
+    "description": "央企信达地产开发，位于浐灞生态区灞河沿线板块，坐拥浐灞两大水系交汇生态资源，环境宜居度高。项目规划三室、四室户型，改善型住宅定位，2026年7月交付。浐灞国际港核心区位，生态与配套兼顾，适合追求品质生活的改善人群。",
+    "price": 130.18,
+    "unitPrice": 1.28,
+    "area": 101.96,
+    "rooms": "3室2厅2卫",
+    "floor": "2-2-17F/23|33F",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市未央区浐灞三路与北辰东路交汇处",
+    "tags": [
+      "央企开发",
+      "浐灞生态区",
+      "改善优选",
+      "河景房"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/xdcyf/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/xdcyf/gallery/shijingtu-1.jpg",
+        "static/images/houses/xdcyf/gallery/xiaoguotu-1.jpg",
+        "static/images/houses/xdcyf/gallery/xiaoguotu-2.jpg"
+      ],
+      "measured": "static/images/houses/xdcyf/floorPlan/102-C.png",
+      "floorPlan": "static/images/houses/xdcyf/floorPlan/house-source-102-C.jpg"
+    },
+    "link": "https://xian.newhouse.fang.com/loupan/3610202804.htm",
+    "deliveryDate": "2026年7月30日",
+    "commuteTime": {
+      "subway": "1小时11分",
+      "drivingDistance": "23公里",
+      "drivingTime": "33分钟"
+    },
+    "greenArea": "30%",
+    "plotRatio": "3.85",
+    "totalBuildings": 7,
+    "positiveNews": [
+      "央企信达开发，品牌有保障，交付放心",
+      "浐灞生态区核心，两大水系交汇，生态环境绝佳",
+      "地铁3号线辛家庙/广泰门站，交通便捷",
+      "周边配套成熟：麦德龙、迪卡侬、四海唐人街、大明宫万达",
+      "西安市第三医院、中医医院近在咫尺，医疗配套完善",
+      "抖音口碑：户型设计合理，南北通透，采光好"
+    ],
+    "negativeNews": [
+      "距离市中心较远，通勤时间长（地铁1小时11分）",
+      "浐灞区域发展相对新区，商业氛围不如主城成熟",
+      "部分业主反映小区周边公共交通线路较少",
+      "新房交付时间2026年7月，等待周期较长"
+    ],
+    "tel": "4001891621#653974",
+    "discountPolicy": "2026年3月价格友好，参考均价12800元/㎡，具体优惠政策需咨询售楼处4001891621#653974，预约看房享专属优惠，一房一价"
+  },
+  {
+    "id": "2",
+    "title": "信达·锦华颂",
+    "description": "央企信达打造第四代住宅标杆，北二环内稀缺地段，枣园片区核心位置。89㎡建筑面积实际得房122㎡，超高得房率打造空中庭院生活。全场域四代生活理念，融合居住、服务、生态全场景，二环内低密改善优选，性价比突出。",
+    "price": 133.5,
+    "unitPrice": 1.5,
+    "area": 89,
+    "actualArea": 122,
+    "rooms": "3室2厅2卫",
+    "floor": "未知/26F",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市未央区枣园片区乐学路以东、文景路以西、凤城南路以南、方新路以北",
+    "tags": [
+      "央企开发",
+      "四代住宅",
+      "高得房率",
+      "二环内"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/xdjhs/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/xdjhs/gallery/gallery-1.jpg",
+        "static/images/houses/xdjhs/gallery/gallery-2.jpg",
+        "static/images/houses/xdjhs/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/xdjhs/floorPlan/89-A.png",
+      "floorPlan": "static/images/houses/xdjhs/floorPlan/house-source-89.jpg"
+    },
+    "deliveryDate": "2027年7月31日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610208006.htm",
+    "commuteTime": {
+      "subway": "59分钟",
+      "drivingDistance": "13公里",
+      "drivingTime": "24分钟"
+    },
+    "greenArea": "37.3%",
+    "plotRatio": "3.69",
+    "totalBuildings": 11,
+    "positiveNews": [
+      "二环内稀缺地段，主城核心，配套成熟",
+      "四代住宅设计，89㎡得房122㎡，超高得房率",
+      "双地铁配套，出行便利",
+      "双公园环绕，生态宜居",
+      "央企信达开发，交付有保障",
+      "贝壳网友评价：户型设计优秀，空间利用率高，空中庭院提升居住品质"
+    ],
+    "negativeNews": [
+      "容积率3.69较高，居住密度较大",
+      "四代住宅维护成本较高，空中花园需定期打理",
+      "二环内交通高峰期易拥堵",
+      "单价15000元/㎡，总价相对较高"
+    ],
+    "discountPolicy": "2026年3月已开盘在售，参考均价15000元/㎡，央企信达品牌保障，具体优惠需咨询售楼处029-68866626，四代住宅双地铁配套"
+  },
+  {
+    "id": "3",
+    "title": "万科·东望",
+    "description": "万科品牌力作，曲江东核心区位，地铁8号线无缝接驳，出行便利性极佳。西安东站2026年建成，区域发展潜力大。低密绿化社区，高校环绕人文氛围浓厚，品牌物业保障生活品质，适合注重交通和教育配套的刚需改善家庭。",
+    "price": 124.41,
+    "unitPrice": 1.13,
+    "area": 110,
+    "rooms": "3室2厅2卫",
+    "floor": "7-11层 602",
+    "orientation": "南北",
+    "decoration": "公共部分带装修",
+    "address": "西安市雁塔区月登阁路与长鸣路交汇处东北角",
+    "tags": [
+      "品牌房企",
+      "地铁8号线",
+      "曲江东",
+      "低密绿化"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/wkdw/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/wkdw/gallery/gallery-1.jpg",
+        "static/images/houses/wkdw/gallery/gallery-2.jpg",
+        "static/images/houses/wkdw/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/wkdw/floorPlan/110-A.png",
+      "floorPlan": "static/images/houses/wkdw/floorPlan/house-source-110.jpg"
+    },
+    "deliveryDate": "2027年8月",
+    "link": "https://xian.newhouse.fang.com/loupan/3610197312.htm",
+    "tel": "4001891621#631784",
+    "commuteTime": {
+      "subway": "1小时4分钟",
+      "drivingDistance": "15公里",
+      "drivingTime": "27分钟"
+    },
+    "greenArea": "35%",
+    "plotRatio": "3.66",
+    "totalBuildings": 35,
+    "positiveNews": [
+      "万科品牌物业，品质保障，克而瑞综合口碑评分高达9.7分",
+      "地铁8号线门口，出行便利",
+      "西安东站2026年建成，区域发展潜力大",
+      "教育资源丰富，高校环绕，人文氛围浓厚",
+      "低密绿化社区，居住舒适度高",
+      "贝壳口碑：市场维度9.5分，产品维度8.9分，业主满意度高"
+    ],
+    "negativeNews": [
+      "距离市中心有一定距离，通勤时间较长",
+      "单价15000元/㎡，价格略高",
+      "区域商业配套仍在发展中，成熟度不如主城",
+      "交房时间待确认，可能存在等待周期"
+    ],
+    "discountPolicy": "2026年3月参考均价15000元/㎡，万科品牌物业保障，预约看房尊享优惠折扣，咨询热线4001891621#631784，建面77-198㎡户型选择丰富"
+  },
+  {
+    "id": "4",
+    "title": "观澜云筑",
+    "description": "大兴新区核心，玉祥门商圈成熟配套，莲湖区教育资源优质。项目位于梨园路主干道，交通便利，2026年2月交付现房属性强。改善型三室户型，性价比高，适合看重教育配套和成熟生活圈的改善家庭。",
+    "price": 137.68,
+    "unitPrice": 1.24,
+    "area": 110.74,
+    "rooms": "3室2厅2卫",
+    "floor": "2-1-8层 03",
+    "orientation": "南北",
+    "decoration": "毛坯",
+    "address": "西安市莲湖区梨园路与大白杨南路交汇处西南角",
+    "tags": [
+      "成熟商圈",
+      "教育资源",
+      "改善优选",
+      "性价比高",
+      "地铁沿线"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/glyz/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/glyz/gallery/gallery-1.jpg",
+        "static/images/houses/glyz/gallery/gallery-2.jpg",
+        "static/images/houses/glyz/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/glyz/floorPlan/110.png",
+      "floorPlan": "static/images/houses/glyz/floorPlan/house-source-110.jpg"
+    },
+    "deliveryDate": "2026年2月28日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610202176.htm",
+    "tel": "4001891621#648387",
+    "commuteTime": {
+      "subway": "50分钟",
+      "drivingDistance": "12公里",
+      "drivingTime": "20分钟"
+    },
+    "greenArea": "40.1%",
+    "plotRatio": "3.41",
+    "totalBuildings": 2,
+    "positiveNews": [
+      "二环内成熟商圈，玉祥门配套完善",
+      "莲湖区教育资源优质，学区房优势明显",
+      "2026年2月交付，现房属性强，风险低",
+      "梨园路主干道，交通便利",
+      "性价比高，总价137万起",
+      "贝壳网友评价：配套成熟，生活便利，适合刚需改善"
+    ],
+    "negativeNews": [
+      "开发商知名度一般，品牌力较弱",
+      "容积率较高，小区居住密度较大",
+      "小区规模较小，社区配套有限",
+      "知乎网友担忧：是否会烂尾，物业服务质量待观察"
+    ],
+    "discountPolicy": "2026年2月已交付现房，参考均价12800元/㎡，现房在售即买即住，咨询热线4001891621#648387，二环内成熟商圈配套完善"
+  },
+  {
+    "id": "5",
+    "title": "鸿瑞新玺",
+    "description": "沣东新城王寺地铁站上盖物业，四代住宅设计，空中庭院提升居住品质。地铁直达交通便利，区域发展潜力大。四代住宅户型，奇偶层面积差异化设计，得房率高，总价120万起性价比优势明显，适合预算有限但追求品质的刚需家庭。",
+    "price": 120,
+    "unitPrice": 1.11,
+    "area": 108,
+    "rooms": "3室2厅2卫",
+    "floor": "1-1 单元11层03",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市西咸新区沣东新城大寨路与文萃二路交汇处东南角(王寺地铁站C口)",
+    "tags": [
+      "地铁沿线",
+      "四代住宅",
+      "改善优选",
+      "沣东新城"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/hrxx/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/hrxx/gallery/gallery-1.jpg",
+        "static/images/houses/hrxx/gallery/gallery-2.jpg",
+        "static/images/houses/hrxx/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/hrxx/floorPlan/108.png",
+      "floorPlan": "static/images/houses/hrxx/floorPlan/house-source-108.jpg"
+    },
+    "deliveryDate": "2026年8月30日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610202574.htm",
+    "tel": "4001891621#651859",
+    "commuteTime": {
+      "subway": "55分钟",
+      "drivingDistance": "15公里",
+      "drivingTime": "24分钟"
+    },
+    "greenArea": "35%",
+    "plotRatio": "2.5",
+    "totalBuildings": 5,
+    "positiveNews": [
+      "地铁王寺站上盖，交通便利",
+      "四代住宅设计，空中庭院提升居住品质",
+      "总价120万起，性价比极高",
+      "鸿瑞集团33年品牌，开发经验丰富",
+      "每层都是森林，每户都有院子，绿色生态住区",
+      "贝壳网友评价：户型设计新颖，得房率高，价格亲民"
+    ],
+    "negativeNews": [
+      "沣东新城区域发展相对较慢，配套待完善",
+      "距离西安主城区较远，通勤时间长",
+      "四代住宅维护成本较高",
+      "周边商业、教育配套不如主城成熟"
+    ],
+    "discountPolicy": "2026年3月参考均价11000-11500元/㎡，总价120万起性价比高，内部优惠购房享价值5万元品牌家电大礼包，咨询热线4001891621#651859"
+  },
+  {
+    "id": "6",
+    "title": "融投·誉璟台",
+    "description": "浐灞三角洲核心区位，浐灞两大水系交汇处，生态宜居环境绝佳。项目占地139亩，容积率2.7低密规划，三面临水景观资源稀缺。单价19574元/㎡定位高端改善，适合追求生态环境和私密性的高端人群，低楼层房源视野开阔。",
+    "price": 131.17,
+    "unitPrice": 1.16,
+    "area": 113,
+    "rooms": "3室3厅2卫",
+    "floor": "6-1-3层03",
+    "orientation": "南",
+    "decoration": null,
+    "address": "西安市浐灞生态区欧亚四路以北、广运潭大道以西",
+    "tags": [
+      "三角洲",
+      "生态宜居",
+      "低密度",
+      "高端改善",
+      "洋房",
+      "改善优选",
+      "浐灞国际港"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/rtyjt/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/rtyjt/gallery/gallery-1.jpg",
+        "static/images/houses/rtyjt/gallery/gallery-2.jpg"
+      ],
+      "measured": "static/images/houses/rtyjt/floorPlan/114.png",
+      "floorPlan": "static/images/houses/rtyjt/floorPlan/house-source-114.jpg"
+    },
+    "deliveryDate": "2027年12月31日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610202224.htm",
+    "tel": "4001891621#655315",
+    "commuteTime": {
+      "drivingDistance": "25公里",
+      "drivingTime": "38分钟"
+    },
+    "greenArea": "35%",
+    "plotRatio": "2.7",
+    "totalBuildings": 27,
+    "positiveNews": [
+      "浐灞三角洲核心，两大水系交汇，生态资源稀缺",
+      "容积率2.7低密规划，居住舒适度高",
+      "三面临水，景观资源绝佳",
+      "融投发展在浐灞第三个项目，开发经验丰富",
+      "户型设计105-179㎡，改善型产品定位精准",
+      "知乎评价：生态环境一流，适合追求品质的高端人群"
+    ],
+    "negativeNews": [
+      "单价19574元/㎡定位高端，总价较高",
+      "距离西安市区较远，通勤不便",
+      "周边商业配套待完善",
+      "新盘刚亮相，市场口碑待建立"
+    ],
+    "discountPolicy": "2026年3月参考均价17393元/㎡，浐灞三角洲核心生态资源，咨询热线4001891621#655315，低密改善社区，预计2027年12月交付"
+  },
+  {
+    "id": "7",
+    "title": "绿城·春和棠樾",
+    "description": "绿城海棠系高端产品线，主城二环内稀缺地块，龙首原核心商圈配套成熟。第四代美学住宅，高奢材质与艺术灵感融合，引领人居迭代浪潮。未央区生活便利榜前列，配套完善，适合追求品质和便利性的改善家庭。",
+    "price": 138.04,
+    "unitPrice": 1.26,
+    "area": 109.38,
+    "rooms": "3室2厅2卫",
+    "floor": "1-2-24层02",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市未央区纬二十七街与永兴路交汇处",
+    "tags": [
+      "品牌房企",
+      "四代住宅",
+      "二环内",
+      "绿城品质",
+      "地铁沿线",
+      "改善优选"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/lchtly/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/lchtly/gallery/gallery-1.jpg",
+        "static/images/houses/lchtly/gallery/gallery-2.jpg",
+        "static/images/houses/lchtly/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/lchtly/floorPlan/105.png",
+      "floorPlan": "static/images/houses/lchtly/floorPlan/house-source-105.png"
+    },
+    "deliveryDate": "2027年4月30日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610207564.htm",
+    "tel": "4001891621#654672",
+    "commuteTime": {
+      "subway": "51分钟",
+      "drivingDistance": "13公里",
+      "drivingTime": "24分钟"
+    },
+    "greenArea": "35%",
+    "plotRatio": "1.5",
+    "totalBuildings": 3,
+    "positiveNews": [
+      "绿城品牌物业，海棠系高端产品线",
+      "主城二环内稀缺地块，龙首原核心商圈",
+      "容积率1.5超低密度，改善舒适度高",
+      "5公里内三甲医疗集群，健康保障完善",
+      "第四代美学住宅，品质高端",
+      "克而瑞评价：低密舒适+绿城物业，核心竞争力强"
+    ],
+    "negativeNews": [
+      "克而瑞评分7.6分，市场口碑中等",
+      "小区规模较小，总户数有限",
+      "单价13900元/㎡，总价相对较高",
+      "四代住宅维护成本较高"
+    ],
+    "discountPolicy": "2026年3月参考价格约12500元/㎡，绿城品牌物业，二环内四代住宅，户型建面105-125㎡，咨询热线4001891621#654672，预计2027年4月交房"
+  },
+  {
+    "id": "8",
+    "title": "长建·望川云庐 (三代宅)",
+    "description": "长安区韦曲南站核心地段，传统住宅产品，户型方正采光充足。南长安街主干道，教育配套评分10分，书香氛围浓厚。2027年12月交付，新盘规划理念先进，适合注重教育和居住品质的改善家庭，117.39㎡舒适户型设计。",
+    "price": 133.54,
+    "unitPrice": 1.14,
+    "area": 117.39,
+    "rooms": "3室2厅2卫",
+    "floor": "4-1-13层02",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市长安区南长安街572号",
+    "tags": [
+      "三代住宅",
+      "教育优质",
+      "核心地段",
+      "改善优选",
+      "地铁沿线"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/cjwcy/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/cjwcy/gallery/gallery-1.jpg",
+        "static/images/houses/cjwcy/gallery/gallery-2.jpg",
+        "static/images/houses/cjwcy/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/cjwcy/floorPlan/115.png",
+      "floorPlan": "static/images/houses/cjwcy/floorPlan/house-source-115.jpg"
+    },
+    "deliveryDate": "2027年12月31日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610206748.htm",
+    "tel": "4001891621#653710",
+    "commuteTime": {
+      "subway": "59分钟",
+      "drivingDistance": "13公里",
+      "drivingTime": "30分钟"
+    },
+    "greenArea": "35%",
+    "plotRatio": "2.8",
+    "totalBuildings": 7,
+    "positiveNews": [
+      "韦曲南站核心地段，配套成熟",
+      "传统住宅户型方正，采光充足",
+      "教育配套评分10分，学区优质",
+      "长建地产深耕西安多年，开发经验丰富",
+      "117.39㎡舒适户型，性价比高",
+      "贝壳评价：户型设计合理，教育配套优秀，适合家庭居住"
+    ],
+    "negativeNews": [
+      "2027年12月交付，等待周期长",
+      "距离市中心较远，通勤时间长",
+      "开发商知名度不如央企品牌"
+    ],
+    "discountPolicy": "2026年3月实时优惠，三代住宅传统户型，地铁2号线韦曲南站上盖，教育配套评分10分，咨询热线4001891621#653710"
+  },
+  {
+    "id": "9",
+    "title": "长建·望川云庐 (四代宅)",
+    "description": "长安区韦曲南站核心地段，第四代住宅产品，空中庭院露台设计，提升居住舒适度。南长安街主干道，教育配套评分10分，书香氛围浓厚。7#楼新推房源，每户配备私家露台花园，2027年12月交付，适合追求品质生活的改善家庭，110.29㎡舒适户型设计。",
+    "price": 131,
+    "unitPrice": 1.19,
+    "area": 110.29,
+    "rooms": "3室2厅2卫",
+    "floor": "7-1-23层02",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市长安区南长安街572号",
+    "tags": [
+      "四代住宅",
+      "带露台",
+      "教育优质",
+      "核心地段",
+      "改善优选",
+      "地铁沿线"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/cjwcy/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/cjwcy/gallery/gallery-1.jpg",
+        "static/images/houses/cjwcy/gallery/gallery-2.jpg",
+        "static/images/houses/cjwcy/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/cjwcy/floorPlan/130.png",
+      "floorPlan": ""
+    },
+    "deliveryDate": "2027年12月31日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610206748.htm",
+    "tel": "4001891621#653710",
+    "commuteTime": {
+      "subway": "59分钟",
+      "drivingDistance": "13公里",
+      "drivingTime": "30分钟"
+    },
+    "greenArea": "35%",
+    "plotRatio": "2.8",
+    "totalBuildings": 7,
+    "positiveNews": [
+      "韦曲南站核心地段，配套成熟",
+      "第四代住宅，空中露台花园设计",
+      "教育配套评分10分，学区优质",
+      "7#楼新推房源，102套房源可选",
+      "110.29㎡舒适户型，带私家露台",
+      "贝壳评价：户型设计新颖，教育配套优秀，四代住宅品质高"
+    ],
+    "negativeNews": [
+      "2027年12月交付，等待周期长",
+      "距离市中心较远，通勤时间长",
+      "开发商知名度不如央企品牌",
+      "四代住宅露台维护成本较高"
+    ],
+    "discountPolicy": "2026年3月实时优惠，第四代住宅空中露台，地铁2号线韦曲南站上盖，教育配套评分10分，咨询热线4001891621#653710"
+  },
+  {
+    "id": "10",
+    "title": "龙湖·君成序",
+    "description": "龙湖品牌保障，长安大学城板块核心，宜家荟聚商圈成熟配套。西部大道与府东一路交汇处，交通便利。克而瑞评分7.57分位列区域第2名，市场口碑8.70分区域第1，高确定性刚需盘，适合注重品牌和配套的刚需改善家庭，通勤距离最短优势明显。",
+    "price": 137.48,
+    "unitPrice": 1.23,
+    "area": 112.16,
+    "rooms": "3室2厅2卫",
+    "floor": "5-1-13层03",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市长安区西部大道与府东一路交汇处",
+    "tags": [
+      "品牌房企",
+      "大学城",
+      "宜家荟聚",
+      "市场口碑佳",
+      "公园地产",
+      "改善优选"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/lhjcx/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/lhjcx/gallery/gallery-1.jpg",
+        "static/images/houses/lhjcx/gallery/gallery-2.jpg",
+        "static/images/houses/lhjcx/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/lhjcx/floorPlan/112.png",
+      "floorPlan": "static/images/houses/lhjcx/floorPlan/house-source-112.jpg"
+    },
+    "deliveryDate": "2026年12月31日",
+    "link": "https://xian.newhouse.fang.com/loupan/3610202194.htm",
+    "tel": "4001891621#648925",
+    "commuteTime": {
+      "subway": "39分钟",
+      "drivingDistance": "7.6公里",
+      "drivingTime": "19分钟"
+    },
+    "greenArea": "38%",
+    "plotRatio": "3.31",
+    "totalBuildings": 9,
+    "positiveNews": [
+      "龙湖品牌物业，市场口碑8.70分区域第1",
+      "长安大学城板块核心，宜家荟聚商圈成熟配套",
+      "通勤距离最短7.6公里，交通便利",
+      "克而瑞综合评分7.57分，区域第2名",
+      "项目价值7.82分，高确定性刚需盘",
+      "贝壳网友评价：品牌有保障，配套成熟，性价比高"
+    ],
+    "negativeNews": [
+      "位于长安区，距离市中心有一定距离",
+      "地铁通勤时间39分钟，不算特别便利",
+      "容积率较高，居住密度相对较大",
+      "单价13500元/㎡，价格中等偏上"
+    ],
+    "discountPolicy": "2026年3月参考均价16201元/㎡，近期加推5#楼新品，冲顶长安区销量TOP1，咨询热线4001891621#648925，建面112-143㎡户型，预计2026年12月交房"
+  },
+  {
+    "id": "11",
+    "title": "五龙·悦苑",
+    "description": "高新区西部大道核心，西沣路主干道，区域发展潜力大。现房在售即买即住，109-180㎡大户型选择丰富。单价13500元/㎡性价比较高，配套成熟生活便利，适合看重高新区发展和通勤便利的刚需改善家庭，驾车5.5公里通勤最优。",
+    "price": 125,
+    "unitPrice": 1.15,
+    "area": 108.43,
+    "rooms": "3室2厅2卫",
+    "floor": "1-2-23层01",
+    "orientation": null,
+    "decoration": "毛坯",
+    "address": "西安市雁塔区西沣路与西部大道交汇处东北角",
+    "tags": [
+      "现房",
+      "高新区",
+      "高性价比",
+      "通勤最快",
+      "不限购",
+      "改善优选"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/wlly/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/wlly/gallery/gallery-1.jpg",
+        "static/images/houses/wlly/gallery/gallery-2.jpg",
+        "static/images/houses/wlly/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/wlly/floorPlan/109.png",
+      "floorPlan": "static/images/houses/wlly/floorPlan/house-source-109.jpg"
+    },
+    "deliveryDate": "现房在售",
+    "link": "https://xian.newhouse.fang.com/loupan/3610192616.htm",
+    "tel": "4001891621#622814",
+    "commuteTime": {
+      "subway": "42分钟",
+      "drivingDistance": "5.5公里",
+      "drivingTime": "17分钟"
+    },
+    "greenArea": "36%",
+    "plotRatio": "3.49",
+    "totalBuildings": 5,
+    "positiveNews": [
+      "现房在售，即买即住，无风险",
+      "通勤距离最短5.5公里，驾车17分钟最优",
+      "高新区核心区位，发展潜力大",
+      "五龙集团27年品牌，开发经验丰富",
+      "单价11000-13500元/㎡，性价比极高",
+      "贝壳网友评价：交通方便，配套成熟，现房放心，性价比高"
+    ],
+    "negativeNews": [
+      "五龙品牌知名度一般，不如央企",
+      "小区绿化率35%，绿化率中等",
+      "部分户型采光一般",
+      "周边环境仍有提升空间"
+    ],
+    "discountPolicy": "现房在售即买即住，参考均价13500元/㎡，建面109-180㎡户型选择丰富，咨询热线4001891621#622814，高新区核心区位性价比高"
+  },
+  {
+    "id": "12",
+    "title": "汉京城6号",
+    "description": "北二环与未央路十字核心区位，城市主干道交汇，交通便利性极佳。未央路直通钟楼长安路，北达绕城高速，路网发达。二环内成熟商圈，购物中心、教育、医疗配套齐全，总户数578户社区规模适中，适合追求核心地段和配套成熟度的改善家庭。",
+    "price": 135.26,
+    "unitPrice": 1.29,
+    "area": 104.49,
+    "rooms": "3室2厅2卫",
+    "floor": "1-1-22层03",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市未央区北二环与未央路十字西南角",
+    "tags": [
+      "二环核心",
+      "交通便利",
+      "配套成熟",
+      "城市主干道"
+    ],
+    "images": {
+      "mainImage": "",
+      "floorPlan": "",
+      "gallery": []
+    },
+    "deliveryDate": "2026年6月30日",
+    "link": "https://xa.fang.anjuke.com/loupan/523944.html",
+    "tel": "4000919322#880295",
+    "commuteTime": {
+      "subway": "1小时2分钟",
+      "drivingDistance": "16公里",
+      "drivingTime": "24分钟"
+    },
+    "greenArea": "30%",
+    "plotRatio": "5.3",
+    "totalBuildings": 2,
+    "positiveNews": [
+      "北二环与未央路十字核心区位，地段优越",
+      "城市主干道交汇，交通便利性极佳",
+      "未央路直通钟楼，北达绕城高速，路网发达",
+      "二环内成熟商圈，购物中心、教育、医疗配套齐全",
+      "总户数578户，社区规模适中",
+      "搜狐评价：核心地段，配套成熟，适合追求便利性的家庭"
+    ],
+    "negativeNews": [
+      "二环内交通高峰期易拥堵",
+      "单价12900元/㎡，价格中等偏上",
+      "开发商知名度一般",
+      "高层住宅，居住密度较大"
+    ],
+    "discountPolicy": "2026年3月参考均价14000元/㎡，二环核心地段，北二环与未央路十字，预约看房享优惠，咨询热线4000919322#880295，预计2026年6月30日交房"
+  },
+  {
+    "id": "13",
+    "title": "翡丽西安",
+    "description": "未央区龙首村核心板块，地铁2号线、4号线双轨交汇，出行便利性极佳。朱宏路主干道，龙首北路成熟商圈，现房在售即买即住。景观居所定位，景观资源丰富，适合看重交通便利和现房属性的刚需改善家庭，地铁44分钟直达工作地。",
+    "price": 136.93,
+    "unitPrice": 1.28,
+    "area": 106.67,
+    "rooms": "3室2厅1卫",
+    "floor": "2-1-14层02",
+    "orientation": "南",
+    "decoration": "毛坯",
+    "address": "西安市未央区朱宏路与龙首北路交汇向东300米路北",
+    "tags": [
+      "双地铁",
+      "现房",
+      "景观居所",
+      "成熟商圈",
+      "低总价",
+      "地铁沿线"
+    ],
+    "images": {
+      "mainImage": "static/images/houses/flxa/mainImage/main.jpg",
+      "gallery": [
+        "static/images/houses/flxa/gallery/gallery-1.jpg",
+        "static/images/houses/flxa/gallery/gallery-2.jpg",
+        "static/images/houses/flxa/gallery/gallery-3.jpg"
+      ],
+      "measured": "static/images/houses/flxa/floorPlan/105.png",
+      "floorPlan": "static/images/houses/flxa/floorPlan/house-source-105.jpg"
+    },
+    "deliveryDate": "现房在售",
+    "link": "https://xian.newhouse.fang.com/loupan/3610198308.htm",
+    "tel": "4001891621#633934",
+    "commuteTime": {
+      "subway": "44分钟",
+      "drivingDistance": "12公里",
+      "drivingTime": "22分钟"
+    },
+    "greenArea": "35%",
+    "plotRatio": "4.27",
+    "totalBuildings": 6,
+    "positiveNews": [
+      "双地铁2号线、4号线，出行便利性极佳",
+      "现房在售，即买即住，无风险",
+      "二环主城核心，龙首村成熟商圈",
+      "景观居所定位，景观资源丰富",
+      "朱宏路主干道，交通便利",
+      "知乎评价：二环内性价比红盘，首开热销，配套成熟"
+    ],
+    "negativeNews": [
+      "二环内交通高峰期易拥堵",
+      "单价13500元/㎡，价格中等",
+      "小区规模相对较小",
+      "开发商知名度一般"
+    ],
+    "discountPolicy": "现房在售即买即住，参考均价13500元/㎡，双地铁2号线4号线，VR看房预约优惠，咨询热线4001891621#633934，二环主城核心龙首村商圈"
+  }
+]
